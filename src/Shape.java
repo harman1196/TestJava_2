@@ -26,6 +26,10 @@ public class Shape {
 	public void setColor(String color) {
 		this.color = color;
 	}
+
+
+
+	
 	
 	
 	
